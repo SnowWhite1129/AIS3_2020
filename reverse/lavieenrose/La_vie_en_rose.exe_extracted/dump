@@ -1,0 +1,13 @@
+# uncompyle6 version 3.7.0
+# Python bytecode 3.8 (3413)
+# Decompiled from: Python 3.6.9 (default, Apr 18 2020, 01:56:04) 
+# [GCC 8.4.0]
+# Embedded file name: rose.py
+# Compiled at: 2020-06-03 16:18:41
+# Size of source mod 2**32: 5575 bytes
+Instruction context:
+   
+ L.  35       220  JUMP_BACK           182  'to 182'
+->               222  JUMP_FORWARD        256  'to 256'
+               224_0  COME_FROM           218  '218'
+
